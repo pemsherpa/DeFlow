@@ -1,4 +1,4 @@
-# DFlow Protocol (Hackathon MVP)
+# DeFlow Protocol (Hackathon MVP)
 
 ## Purpose
 Short: Decentralized AI venture intelligence on Cardano.
